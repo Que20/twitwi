@@ -63,7 +63,9 @@ To add someone to a list
 Example :
 
 > `twitwi list-create Super List`
+
 > `twitwi list-add -l Super List -u @someone`
+
 > `twitwi list`
 
     Super List / 1 member / 0 subscribed
